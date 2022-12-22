@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-lessons-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariana-Diachun/nodejs-lessons-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Mariana-Diachun/nodejs-lessons-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
